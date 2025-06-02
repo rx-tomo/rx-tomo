@@ -1,4 +1,12 @@
 - 🌱 I’m currently learning ...
+- 000 雛形
+- 001 : [p]music db
+- 002 : [p]stck & helthcate
+- 003 : 休職
+- 004 : DataGenerator
+- 005 : --
+- 006 : 002 -> Saas
+- 
 
 <!---
 rx-tomo/rx-tomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
