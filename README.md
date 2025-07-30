@@ -1,22 +1,42 @@
-- 🌱 I’m currently learning ...
-- 000 雛形
-- 001 : [p]music db
-- 002 : [p]stck & helthcate
-- 003 : [p]abs mgr
-- 004 : DataGenerator
-- 005 : --
-- 006 : [p]002 -> Saas
+## 👋 はじめまして、rx-tomo です
 
+社内向けの業務システムや BtoB SaaS を中心に、設計・実装・運用の各フェーズで開発に取り組んでいます。  
+特に最近は、 B2Bのプロダクトに関わりながら、開発フローや作業効率の改善、自動化にも力を入れています。
 
-<!---
-rx-tomo/rx-tomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+> ⚠️ 実際のコードは機密性の高い社内プロジェクトが多いため公開できませんが、技術的な取り組みや関心領域は積極的に発信していきたいと考えています。
 
-- 👋 Hi, I’m @rx-tomo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+---
+
+### 🧠 関心のあるテーマ・取り組んでいる技術
+
+- **GitOps / DX 自動化**  
+  `git worktree` を活用した並行開発環境の構築や、GitHub Actions × Claude MCP による記録・ドキュメントの自動更新フロー
+- **データ処理と業務ロジック**  
+  Excelからのデータ取込スクリプト開発、PostgreSQL連携、Supabase MCP 利用
+- **UI/UX設計と試作**  
+  `shadcn/ui` + `Tailwind CSS` による Liquid Glass 風の次世代UI表現の試作
+- **健康経営 × LLM活用**  
+  ストレスチェックや健康診断データの集約・可視化、AIによるレポート生成
+
+---
+
+### 📝 直近の活動（2025年7月）
+
+- `pjt009`, `pjt013` など4つのリポジトリで合計205件のコミット  
+- B2BロダクトのUI更新とデモスクリプト追加（27コメントのPR）  
+- Excel読込ロジックの刷新に向けたIssue起票と議論（31コメント）  
+- Claude Code MCPとGitHubフックを組み合わせたドキュメント自動更新機構を試作中
+
+---
+
+### 🔍 これからやりたいこと
+
+- GitHubワークフローの社内標準化とCI整備  
+- Claude MCP × GitOps のパターン整理と汎用化  
+- UI/UXに関するプロトタイプの外部共有（非機密ベースで）  
+- LLMによる業務可視化・要約アシストのPoCの加速
+
+---
+
+📌 公開リポジトリには今後、スクリプトや設定ファイル、UIモックなど「再利用できる技術資産」を整理して追加していく予定です。  
+ご興味のある方はぜひフォロー・ご連絡ください！
