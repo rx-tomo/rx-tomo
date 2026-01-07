@@ -39,7 +39,7 @@
 | プロジェクト | 説明 | 技術スタック |
 |------------|------|-------------|
 | [shadow-simulator](https://rx-tomo.github.io/shadow-simulator/) | ブラウザで動作する日影シミュレータ | MapLibre GL JS, TerraDraw, Vanilla JS |
-| [世界史の視覚化世界史の世界史の世界史n世界史世界s世界せかせkせs(https://rx-tomo.github.io/ | 縄文時代の極端な長さを視覚で確認 |  |
+| [世界史の視覚化](https://rx-tomo.github.io/) | 縄文時代の極端な長さを視覚で確認 |  |
 ---
 
 ### 🔍 これからやりたいこと
